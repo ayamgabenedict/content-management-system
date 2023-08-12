@@ -25,7 +25,7 @@ Grid layout, left sidebar, modal, panel, well, progress bar, boostrap icons, tab
 ## About the Stack
 1. HTML
 2. CSS (Bootstrap3.46)
-3. Javascript
+
 
 
 ### Future works
