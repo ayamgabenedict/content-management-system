@@ -1,10 +1,13 @@
-# Dashboard Project
+# Content Management System
 
-## Frontend of the Dashboard
 
-This project is a demo bootstrap dashboard mainly focussed on the front end. It is primarily made up of the Dashboard, Pages, Posts and Users area. 
+## Content Management System (Dashboard) - Frontend
 
-The main dashboard area comprises a navbar, header section, button, breadcrumb, left sidebar, main section and a footer.
+### About
+
+This project is a demo Bootstrap Content Management System (CMS)  mainly focussed on the front end. It is primarily made up of the Dashboard, Pages, Posts and Users area. 
+
+The main dashboard (i.e. the homepage) area comprises a navbar, header section, button, breadcrumb, left sidebar, main section and a footer.
 
 
 ### Extra
@@ -28,7 +31,6 @@ Grid layout, left sidebar, modal, panel, well, progress bar, boostrap icons, tab
 ### Future works
 
 To create and connect a database to store user info, pages, posts from which the frontend can consume data.
-
 
 
 
